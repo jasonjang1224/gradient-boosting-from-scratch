@@ -1,7 +1,5 @@
 # Gradient Boosting from Scratch
 
-Jason Jang
-
 This project derives and implements a modern Gradient Boosting Machine (GBM) from the ground up, assuming only undergraduate calculus (derivatives, chain rule, Taylor expansion). Every equation is derived step by step, every component is implemented in pure NumPy, and every line of code is mapped back to the math that produced it.
 
 The goal of this document and codebase is to be **easier to follow, yet more rigorous, than any material currently available**. "Easier" doesn't mean skipping steps — it means no step is skipped, so the derivation can be followed all the way through without unexplained jumps. "Rigorous" means every equation in the writeup is explicitly traced to the exact line of code that implements it.
